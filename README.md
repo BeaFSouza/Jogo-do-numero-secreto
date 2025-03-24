@@ -1,7 +1,7 @@
-<h1>🎮 Jogo do Amigo secreto</h1>
+<h1>🎮 Jogo do número secreto</h1>
 
 <h2> Projeto</h2>
-<p> Este é um jogo simples de Amigo Secreto desenvolvido em JavaScript. O objetivo do jogo é simular um sorteio de amigos secretos entre um grupo de pessoas, garantindo que ninguém tire o próprio nome ou o nome de outra pessoa mais de uma vez. </p>
+<p> O "Jogo do Número Secreto" é um jogo simples de adivinhação no qual o jogador tenta descobrir um número aleatório gerado pelo sistema. </p>
 
 ## ⌨️ Tecnologias
 - 📚 HTML5
@@ -9,16 +9,20 @@
 - 📜 JavaScript
 
 ## Objetivo
-<p>  O jogo busca proporcionar uma experiência interativa e divertida para grupos que desejam realizar um sorteio de amigo secreto de maneira automatizada e justa, evitando repetições ou erros no sorteio manual.</p>
+<p>  O jogo busca proporcionar uma experiência interativa e divertida para grupos que desejam realizar um sorteio do número secreto de maneira automatizada e justa, evitando repetições ou erros no sorteio manual.</p>
 
 ## Como Jogar
-<p>Adicione os participantes
+<p>Inicie o jogo
 
-Realize o sorteio
+O sistema gera um número secreto aleatório.
 
-Veja o resultado
+Insira um número e veja se acertou ou se precisa tentar novamente.
 
-Cada participante poderá visualizar apenas o nome da pessoa que sorteou.
+O sistema informa se o número secreto é maior ou menor.
 
-Compartilhe a informação
+O jogo registra quantas tentativas foram feitas.
+
+Reinicie o jogo
+
+Após acertar, é possível jogar novamente com um novo número secreto.
 </p>
